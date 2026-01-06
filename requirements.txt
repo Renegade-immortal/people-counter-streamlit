@@ -1,0 +1,8 @@
+streamlit
+torch
+opencv-python
+Pillow
+numpy
+tqdm
+matplotlib
+PyYAML
