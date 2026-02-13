@@ -7,3 +7,6 @@ tqdm
 matplotlib
 PyYAML
 torchvision
+ultralytics
+seaborn
+

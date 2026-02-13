@@ -1,1 +1,6 @@
 python3.10
+<<<<<<< HEAD
+=======
+libgl1-mesa-glx
+
+>>>>>>> 885cbaf8aa82a5ddbd32f41531aa970d44ae1de6
